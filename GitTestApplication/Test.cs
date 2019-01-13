@@ -8,5 +8,12 @@ namespace GitTestApplication
 {
     public  class Test
     {
+        public Test()
+        {
+
+        }
+
+        public int Id { get; set; }
+
     }
 }
